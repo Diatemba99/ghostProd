@@ -1,0 +1,85 @@
+.bouton
+{
+    /* margin-top: 15%; */
+   margin-left: 30%;
+  font-family: Calibri;
+}
+
+.head
+{
+   margin-left: 30%;
+}
+img
+{
+
+   width: 10%;
+   margin-left: 25%;
+   border-radius: 150px 150px 150px 150px;
+
+}
+h4
+{
+    margin-left: 25%;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bouton div  a
+{
+   background-color: grey;
+   border: none;
+   border-color: grey;
+   text-transform: uppercase;
+   font-size: 15pt;
+   font-weight: bolder;
+}
+
+.bouton div  a
+{
+    text-decoration: none;
+    color: white;
+}
+.bouton div
+{
+   margin-top: 4%;
+
+}
+
+.bouton div  a:hover
+{   
+   background-color: white;
+   color: grey;
+   border: solid 2px grey;
+}
+/* .bouton div button a:hover
+{
+   color: grey;
+
+} */
+
+.btn1
+{
+    padding: 15px 295px;
+
+}
+.btn2
+{
+    padding: 15px 285px;
+
+}
+.btn3
+{
+    padding: 15px 291px;
+
+}
+.btn4
+{
+    padding: 15px 290px;
+
+}
+.btn5
+{
+    padding: 15px 297px;
+
+}
